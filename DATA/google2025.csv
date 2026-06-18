@@ -1,0 +1,10 @@
+source,target,value
+Total Revenue,Cost of Revenue,162535
+Total Revenue,Gross Profit,240301
+Gross Profit,Operating Expense,111262
+Gross Profit,Operating Income,129039
+Operating Income,Pretax Income,129039
+Net Non-Operating Interest Income,Pretax Income,3601
+Other Income,Pretax Income,26186
+Pretax Income,Tax Provision,26656
+Pretax Income,Net Income,132170
